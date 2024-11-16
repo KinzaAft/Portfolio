@@ -53,8 +53,8 @@ export default function about (){
                     </div>
 
                 </div>
-                <div className="right">
-                <div className="flex ml-[10px] mb-[30px] md:ml-[50px]  items-center"> 
+                <div className="right mb-[30px]">
+                <div className="flex ml-[10px] md:ml-[50px]  items-center"> 
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" color="#ff6600" fill="none">
     <path d="M18 2V4M6 2V4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
     <path d="M10 17L9.99999 13.3472C9.99999 13.1555 9.86325 13 9.69458 13H9M13.6297 17L14.9842 13.3492C15.0475 13.1785 14.9128 13 14.7207 13H13" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" />
